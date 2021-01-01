@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NG_Core_Auth", "NG_Core_Auth.csproj", "{5E47D682-9421-43A8-98E7-D3D0192217E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E47D682-9421-43A8-98E7-D3D0192217E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E47D682-9421-43A8-98E7-D3D0192217E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E47D682-9421-43A8-98E7-D3D0192217E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E47D682-9421-43A8-98E7-D3D0192217E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDC8706-D39B-4C4B-86E5-5FF83E78F047}
+	EndGlobalSection
+EndGlobal
